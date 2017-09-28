@@ -1,9 +1,9 @@
 {
   "name": "ngCytoscape",
-  "private": true,
+  "private": false,
   "version": "0.0.6",
   "description": "Angular Cytoscape",
-  "repository": "https://github.com/johnnyflinn/ngCytoscape",
+  "repository": "https://github.com/kkomenan/ngCytoscape",
   "license": "MIT",
   "devDependencies": {
     "bower": "^1.3.1",
